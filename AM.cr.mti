@@ -1,0 +1,24 @@
+{D:/facultate an 2/PSD/AM2940/AM.v} {1 {vlog -work work -stats=none {D:/facultate an 2/PSD/AM2940/AM.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module reg8Pld
+-- Compiling module reg3Pld
+-- Compiling module MUX_1_DIN_2
+-- Compiling module MUX_1_DIN_3
+-- Compiling module Buffer
+-- Compiling module counter
+-- Compiling module done_gen
+-- Compiling module Decoder
+-- Compiling module TEST_AM40
+-- Compiling module TEST_NUMARATOR_8_BIT
+-- Compiling module TEST_MUX_1_DIN_2
+-- Compiling module TEST_MUX_1_DIN_3
+-- Compiling module TEST_reg8ResPld
+
+Top level modules:
+	TEST_AM40
+	TEST_NUMARATOR_8_BIT
+	TEST_MUX_1_DIN_2
+	TEST_MUX_1_DIN_3
+	TEST_reg8ResPld
+
+} {} {}}
